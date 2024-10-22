@@ -24,7 +24,7 @@
 ## 2.Blade.
 - [1.Blade: The Absolute Basics](./Blade/the_absolute_basics.md)
 
-- [2.Blade Layouts Two Ways](./Blade/)
+- [2.Blade Layouts Two Ways](./Blade/blade_layouts_two_ways.md)
 
 - [3.A Few Tweaks and Consideration](./Blade/)
 
