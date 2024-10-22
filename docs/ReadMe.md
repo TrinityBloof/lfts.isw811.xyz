@@ -35,7 +35,7 @@
 
 - [3.Eloquent and the Active Record Pattern](./Working%20with%20databases/eloquent_and_the_active_record_pattern.md)
 
-- [4.Make a Post Model and Migration](./Working%20with%20databases/)
+- [4.Make a Post Model and Migration](./Working%20with%20databases/make_a_post_model_and_migration.md)
 
 - [5.Eloquent Updates and HTML Escaping](./Working%20with%20databases/)
 
