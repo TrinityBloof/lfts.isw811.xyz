@@ -43,29 +43,29 @@
 
 - [7.Route Model Binding](./Working%20with%20databases/route_model_binding.md)
 
-- [8.Your First Eloquent Relationship](./Working%20with%20databases/)
+- [8.Your First Eloquent Relationship](./Working%20with%20databases/your_first_eloquent_relationship.md)
 
-- [9.Show All Posts Associated With a Category](./Working%20with%20databases/)
+- [9.Show All Posts Associated With a Category](./Working%20with%20databases/show_all_posts_associated_with_a_category.md)
 
-- [10.Clockwork, and the N+1 Problem](./Working%20with%20databases/)
+- [10.Clockwork, and the N+1 Problem](./Working%20with%20databases/clockwork_and_the_problem.md)
 
-- [11.Database Seeding Saves Time](./Working%20with%20databases/)
+- [11.Database Seeding Saves Time](./Working%20with%20databases/database_seeding_saves_time.md)
 
-- [12.Turbo Boost With Factories](./Working%20with%20databases/)
+- [12.Turbo Boost With Factories](./Working%20with%20databases/turbo_boost_with_factories.md)
 
-- [13.View All Posts By An Author](./Working%20with%20databases/)
+- [13.View All Posts By An Author](./Working%20with%20databases/view_all_posts_by_an_author.md)
 
-- [14.Eager Load Relationships on an Existing Model](./Working%20with%20databases/)
+- [14.Eager Load Relationships on an Existing Model](./Working%20with%20databases/eager_load_relationships_on_an_existing_model.md)
 
 ## 4.Integrate the Design.
-- [1.Convert the HTML and CSS to Blade](./Integrate%20the%20desing/)
+- [1.Convert the HTML and CSS to Blade](./Integrate%20the%20desing/convert_the_html_and_css_to_blade.md)
 
-- [1.Blade Components and CSS Grids](./Integrate%20the%20desing/)
+- [1.Blade Components and CSS Grids](./Integrate%20the%20desing/blade_components_and_css_grids.md)
 
-- [1.Convert the Blog Post Page](./Integrate%20the%20desing/)
+- [1.Convert the Blog Post Page](./Integrate%20the%20desing/convert_the_blog_post_page.md)
 
-- [1.A Small JavaScript Dropdown Detour](./Integrate%20the%20desing/)
+- [1.A Small JavaScript Dropdown Detour](./Integrate%20the%20desing/a_small_javascript_dropdown_detour.md)
 
-- [1.How to Extract a Dropdown Blade Component](./Integrate%20the%20desing/)
+- [1.How to Extract a Dropdown Blade Component](./Integrate%20the%20desing/how_to_extract_a_dropdown_blade_component.md)
 
-- [1.Quick Tweaks and Clean-Up](./Integrate%20the%20desing/)
+- [1.Quick Tweaks and Clean-Up](./Integrate%20the%20desing/quick_tweaks_and_cleanup.md)
