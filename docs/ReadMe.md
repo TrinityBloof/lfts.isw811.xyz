@@ -17,7 +17,7 @@
 
 - [7.Use the Filesystem Class to Read a Directory](./The%20Basics/use_the_filesystem_class_to_read_a_directory.md)
 
-- [8.Find a Composer Package for Post Metadata](./The%20Basics/)
+- [8.Find a Composer Package for Post Metadata](./The%20Basics/find_a_composer_package_for_post_metadata.md)
 
 - [9.Collection Sorting and caching Refresher](./The%20Basics/)
 
