@@ -5,25 +5,67 @@
 ## 1.The Basics.
 - [1.How a route loads a view](./The%20Basics/How_a_route_loads_a_view.md)
 
-- [2.Include CSS and JavaScript](./The%20Basics/Include_CSS_and_JavaScript/Include_CSS_and_JavaScript.md)
+- [2.Include CSS and JavaScript](./The%20Basics/include_css_and_javascript.md)
 
-- [3.Make a Route and Link to it](./The%20Basics/Make_a_route_and_link_to_it/Make_a_route_and_link_to_it.md)
+- [3.Make a Route and Link to it](./The%20Basics/)
 
-- [4.Store Blog Posts as HTML Files](./The%20Basics/Store_Blog_Posts_as_HTML_Files/Store_Blog_Posts_as_HTML_Files.md)
+- [4.Store Blog Posts as HTML Files](./The%20Basics/)
 
-- [5.Route Wildcard Constraints](./The%20Basics/Route%20_Wildcard%20_Constraints/Route%20_Wildcard%20_Constraints.md)
+- [5.Route Wildcard Constraints](./The%20Basics/)
 
-- [6.Use Caching for Expensive Operations](./The%20Basics/Use_Caching_for_Expensive_Operations/Use_Caching_for_Expensive_Operations.md)
+- [6.Use Caching for Expensive Operations](./The%20Basics/)
 
-- [7.Use the Filesystem Class to Read a Directory](./The%20Basics/Use_the_Filesystem_Class_to_Read_a_Directory/Use_the_Filesystem_Class_to_Read_a_Directory.md)
+- [7.Use the Filesystem Class to Read a Directory](./The%20Basics/)
 
-- [8.Find a Composer Package for Post Metadata](./The%20Basics/Find_a_Composer_Package_for_Post_Metadata/Find_a_Composer_Package_for_Post_Metadata.md)
+- [8.Find a Composer Package for Post Metadata](./The%20Basics/)
 
-- [9.Collecting Sorting and caching Refresher](./The%20Basics/Collecting_Sorting_and_caching_Refresher/Collecting_Sorting_and_caching_Refresher.md)
+- [9.Collection Sorting and caching Refresher](./The%20Basics/)
 
 ## 2.Blade.
-- [1.Blade_Layouts_Two_ways](./Blade/Blade_Layouts_Two_Ways/Blade_Layouts_Two_Ways.md)
+- [1.Blade: The Absolute Basics](./Blade/)
+
+- [2.Blade Layouts Two Ways](./Blade/)
+
+- [3.A Few Tweaks and Consideration](./Blade/)
 
 ## 3.Working With DataBases.
+- [1.Environment Files and Database Connections](./Working%20with%20databases/)
+
+- [2.Migrations: The Absolute Basics](./Working%20with%20databases/)
+
+- [3.Eloquent and the Active Record Pattern](./Working%20with%20databases/)
+
+- [4.Make a Post Model and Migration](./Working%20with%20databases/)
+
+- [5.Eloquent Updates and HTML Escaping](./Working%20with%20databases/)
+
+- [6.3 Ways to Mitigate Mass Assignment Vulnerabilities](./Working%20with%20databases/)
+
+- [7.Route Model Binding](./Working%20with%20databases/)
+
+- [8.Your First Eloquent Relationship](./Working%20with%20databases/)
+
+- [9.Show All Posts Associated With a Category](./Working%20with%20databases/)
+
+- [10.Clockwork, and the N+1 Problem](./Working%20with%20databases/)
+
+- [11.Database Seeding Saves Time](./Working%20with%20databases/)
+
+- [12.Turbo Boost With Factories](./Working%20with%20databases/)
+
+- [13.View All Posts By An Author](./Working%20with%20databases/)
+
+- [14.Eager Load Relationships on an Existing Model](./Working%20with%20databases/)
 
 ## 4.Integrate the Design.
+- [1.Convert the HTML and CSS to Blade](./Integrate%20the%20desing/)
+
+- [1.Blade Components and CSS Grids](./Integrate%20the%20desing/)
+
+- [1.Convert the Blog Post Page](./Integrate%20the%20desing/)
+
+- [1.A Small JavaScript Dropdown Detour](./Integrate%20the%20desing/)
+
+- [1.How to Extract a Dropdown Blade Component](./Integrate%20the%20desing/)
+
+- [1.Quick Tweaks and Clean-Up](./Integrate%20the%20desing/)
