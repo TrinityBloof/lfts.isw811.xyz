@@ -9,7 +9,7 @@
 
 - [3.Make a Route and Link to it](./The%20Basics/make_a_route_and_link_to_it.md)
 
-- [4.Store Blog Posts as HTML Files](./The%20Basics/)
+- [4.Store Blog Posts as HTML Files](./The%20Basics/store_blog_posts_as_html_files.md)
 
 - [5.Route Wildcard Constraints](./The%20Basics/)
 
