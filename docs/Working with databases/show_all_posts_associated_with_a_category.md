@@ -4,5 +4,5 @@
 
 # Show All Posts Associated With a Category
 
-- En este capítulo 
-![Virtualización](/docs/images/cap23.png)
+- En este capítulo se fixeo el link para mostrar todos los posts asociados a una mismna categoria
+![Virtualización](/docs/images/cap24.png)
