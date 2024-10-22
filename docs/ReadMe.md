@@ -26,7 +26,7 @@
 
 - [2.Blade Layouts Two Ways](./Blade/blade_layouts_two_ways.md)
 
-- [3.A Few Tweaks and Consideration](./Blade/)
+- [3.A Few Tweaks and Consideration](./Blade/a_few_tweaks_and_consideration.md)
 
 ## 3.Working With DataBases.
 - [1.Environment Files and Database Connections](./Working%20with%20databases/)
