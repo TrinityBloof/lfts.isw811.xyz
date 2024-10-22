@@ -39,7 +39,7 @@
 
 - [5.Eloquent Updates and HTML Escaping](./Working%20with%20databases/eloquent_updates_and_html_escaping.md)
 
-- [6.3 Ways to Mitigate Mass Assignment Vulnerabilities](./Working%20with%20databases/)
+- [6.3 Ways to Mitigate Mass Assignment Vulnerabilities](./Working%20with%20databases/3_ways_to_mitigate_mass_assignment_vulnerabilities.md)
 
 - [7.Route Model Binding](./Working%20with%20databases/)
 
