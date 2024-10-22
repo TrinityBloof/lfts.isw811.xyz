@@ -4,5 +4,4 @@
 
 # Eager Load Relationships on an Existing Model
 
-- En este capítulo 
-![Virtualización](/docs/images/cap23.png)
+- En este capítulo se mejoraron las consultas de las relaciones hacia la base de datos usando la variable $with
