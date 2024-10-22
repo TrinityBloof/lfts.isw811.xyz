@@ -13,7 +13,7 @@
 
 - [5.Route Wildcard Constraints](./The%20Basics/route_wildcard_constraints.md)
 
-- [6.Use Caching for Expensive Operations](./The%20Basics/)
+- [6.Use Caching for Expensive Operations](./The%20Basics/use_caching_for_expensive_operations.md)
 
 - [7.Use the Filesystem Class to Read a Directory](./The%20Basics/)
 
