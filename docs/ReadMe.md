@@ -33,7 +33,7 @@
 
 - [2.Migrations: The Absolute Basics](./Working%20with%20databases/migratios_the_absolute_basics.md)
 
-- [3.Eloquent and the Active Record Pattern](./Working%20with%20databases/)
+- [3.Eloquent and the Active Record Pattern](./Working%20with%20databases/eloquent_and_the_active_record_pattern.md)
 
 - [4.Make a Post Model and Migration](./Working%20with%20databases/)
 
