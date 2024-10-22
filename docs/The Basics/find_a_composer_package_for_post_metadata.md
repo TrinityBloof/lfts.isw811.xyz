@@ -4,5 +4,5 @@
 
 # Find a Composer Package for Post Metadata
 
-- En este capítulo se limpio aún más el código que teníamos haciendolo declarado y más sencillo de enternder, además se añadió una nueva función para cargar todos los posts que estén en la carpeta permitente de forma dinámica. Y por último se hizo una introducción a la metadata.
-![Virtualización](/docs/images/cap11.png)
+- En este capítulo se hizo usó completo de la metadata haciendo que los documentos tengan información útil para mostrar cada uno de los post de forma eficiente y de forma totalmente dinámica.
+![Virtualización](/docs/images/cap12.png)

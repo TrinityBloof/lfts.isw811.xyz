@@ -22,7 +22,7 @@
 - [9.Collection Sorting and caching Refresher](./The%20Basics/collection_sorting_and_caching_refresher.md)
 
 ## 2.Blade.
-- [1.Blade: The Absolute Basics](./Blade/)
+- [1.Blade: The Absolute Basics](./Blade/the_absolute_basics.md)
 
 - [2.Blade Layouts Two Ways](./Blade/)
 
