@@ -37,7 +37,7 @@
 
 - [4.Make a Post Model and Migration](./Working%20with%20databases/make_a_post_model_and_migration.md)
 
-- [5.Eloquent Updates and HTML Escaping](./Working%20with%20databases/)
+- [5.Eloquent Updates and HTML Escaping](./Working%20with%20databases/eloquent_updates_and_html_escaping.md)
 
 - [6.3 Ways to Mitigate Mass Assignment Vulnerabilities](./Working%20with%20databases/)
 
