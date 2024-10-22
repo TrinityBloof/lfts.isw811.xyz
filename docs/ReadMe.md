@@ -29,7 +29,7 @@
 - [3.A Few Tweaks and Consideration](./Blade/a_few_tweaks_and_consideration.md)
 
 ## 3.Working With DataBases.
-- [1.Environment Files and Database Connections](./Working%20with%20databases/)
+- [1.Environment Files and Database Connections](./Working%20with%20databases/environment_files_and_database_connections.md)
 
 - [2.Migrations: The Absolute Basics](./Working%20with%20databases/)
 
