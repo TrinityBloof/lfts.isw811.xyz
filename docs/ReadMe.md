@@ -11,7 +11,7 @@
 
 - [4.Store Blog Posts as HTML Files](./The%20Basics/store_blog_posts_as_html_files.md)
 
-- [5.Route Wildcard Constraints](./The%20Basics/)
+- [5.Route Wildcard Constraints](./The%20Basics/route_wildcard_constraints.md)
 
 - [6.Use Caching for Expensive Operations](./The%20Basics/)
 
