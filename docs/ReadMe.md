@@ -31,7 +31,7 @@
 ## 3.Working With DataBases.
 - [1.Environment Files and Database Connections](./Working%20with%20databases/environment_files_and_database_connections.md)
 
-- [2.Migrations: The Absolute Basics](./Working%20with%20databases/)
+- [2.Migrations: The Absolute Basics](./Working%20with%20databases/migratios_the_absolute_basics.md)
 
 - [3.Eloquent and the Active Record Pattern](./Working%20with%20databases/)
 
