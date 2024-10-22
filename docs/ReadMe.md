@@ -15,7 +15,7 @@
 
 - [6.Use Caching for Expensive Operations](./The%20Basics/use_caching_for_expensive_operations.md)
 
-- [7.Use the Filesystem Class to Read a Directory](./The%20Basics/)
+- [7.Use the Filesystem Class to Read a Directory](./The%20Basics/use_the_filesystem_class_to_read_a_directory.md)
 
 - [8.Find a Composer Package for Post Metadata](./The%20Basics/)
 
